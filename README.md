@@ -1,2 +1,1 @@
-# agg-oic.github.io
-Aggrandize - Oracle Integration Cloud
+# Aggrandize - Oracle Integration Cloud
